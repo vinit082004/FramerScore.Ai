@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+storage/uploads/*
+!storage/uploads/.gitkeep
+storage/framescore.db
